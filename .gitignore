@@ -132,6 +132,6 @@ dmypy.json
 .vscode/*
 
 # Credential Config Files
-config.json
-appsettings.json
+# config.json
+# appsettings.json
 product-readiness.*
