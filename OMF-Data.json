@@ -3,8 +3,8 @@
     "containerid": "FirstContainer",
     "values": [
       {
-        "Timestamp": null,
-        "IntegerProperty": null
+        "Timestamp": "2021-10-22T14:00:00.430Z",
+        "IntegerProperty": 10
       }
     ]
   },
@@ -12,8 +12,8 @@
     "containerid": "SecondContainer",
     "values": [
       {
-        "Timestamp": null,
-        "IntegerProperty": null
+        "Timestamp": "2021-10-22T14:00:00.222Z",
+        "IntegerProperty": 20
       }
     ]
   },
@@ -21,10 +21,10 @@
     "containerid": "ThirdContainer",
     "values": [
       {
-        "Timestamp": null,
-        "NumberProperty1": null,
-        "NumberProperty2": null,
-        "StringEnum": null
+        "Timestamp": "2021-10-22T14:00:00.120Z",
+        "NumberProperty1": 5.5,
+        "NumberProperty2": 15.5,
+        "StringEnum": "False"
       }
     ]
   },
@@ -32,8 +32,8 @@
     "containerid": "FourthContainer",
     "values": [
       {
-        "Timestamp": null,
-        "IntegerEnum": null
+        "Timestamp": "2021-10-22T14:00:00.005Z",
+        "IntegerEnum": 0
       }
     ]
   }
